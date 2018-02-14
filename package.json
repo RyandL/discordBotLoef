@@ -1,0 +1,25 @@
+{
+  "name": "discord-loef-bot",
+  "version": "1.0.0",
+  "description": "Testing dicord params for bot and discord API",
+  "main": "mybot.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyandL/discordBotLoef.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "Zappy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyandL/discordBotLoef/issues"
+  },
+  "homepage": "https://github.com/RyandL/discordBotLoef#readme"
+}
